@@ -9,6 +9,7 @@ description = "A small, production-shaped starter for the WhatsApp Business Clou
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
+authors = [{ name = "Konstantin Konradi", email = "info@fynaxa.de" }]
 dependencies = []
 
 [project.optional-dependencies]
